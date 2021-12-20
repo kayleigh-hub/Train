@@ -1,0 +1,15 @@
+hadoop/Score.class
+hadoop/DemoWorkCount.class
+hadoop/DemoStudentClazz.class
+hadoop/DemoWordCount2$TokenizerMapper.class
+hadoop/DemoWordCount3$WCMapper.class
+hadoop/DemoWordCount3$WCReduce.class
+hadoop/DemoWorkCount$WCMapper.class
+hadoop/Score$MyMapper.class
+hadoop/DemoWordCount3.class
+hadoop/DemoWordCount2.class
+hadoop/DemoWorkCount$WCReduce.class
+hadoop/DemoStudentClazz$SumReduce.class
+hadoop/DemoStudentClazz$SumMApper.class
+hadoop/Score$MyReducer.class
+hadoop/DemoWordCount2$IntSumReducer.class
